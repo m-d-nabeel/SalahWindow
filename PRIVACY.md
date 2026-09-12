@@ -3,7 +3,7 @@
 **Last Updated:** September 13, 2026  
 **Application:** Salah Window (`com.salahtracker`)  
 **Developer:** Nabeel  
-**Contact:** asharnabeel137@gmail.com  
+**Contact:** [GitHub Issues](https://github.com/m-d-nabeel/SalahWindow/issues)  
 
 ---
 
@@ -55,6 +55,6 @@ If this Privacy Policy is updated, the changes will be posted in the project's p
 
 ### Contact Us
 
-If you have questions or suggestions about this Privacy Policy, please contact us at:
-- **Email:** asharnabeel137@gmail.com
-- **Public Repository:** https://github.com/m-d-nabeel/SalahWindow
+If you have questions or suggestions about this Privacy Policy, please reach out via:
+- **Public Issues & Inquiries:** [github.com/m-d-nabeel/SalahWindow/issues](https://github.com/m-d-nabeel/SalahWindow/issues)
+- **Repository:** [github.com/m-d-nabeel/SalahWindow](https://github.com/m-d-nabeel/SalahWindow)
