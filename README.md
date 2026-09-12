@@ -28,4 +28,4 @@ See [LICENSE](LICENSE). The repository text is MIT-licensed.
 
 ## Privacy
 
-Core prayer timing and logging work offline. No account is required for the core experience.
+Core prayer timing and logging work 100% offline with zero network calls and zero trackers. See [Privacy Policy](PRIVACY.md).
