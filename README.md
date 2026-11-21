@@ -28,4 +28,4 @@ See [LICENSE](LICENSE). The repository text is MIT-licensed.
 
 ## Privacy
 
-Core prayer timing and logging work 100% offline with zero network calls and zero trackers. See [Privacy Policy](PRIVACY.md).
+Everything works offline: the app has no internet permission, no ads and no trackers, reads your location only when you tap Detect (kept to about 1 km, never sent anywhere), and finds places from a list built into the app. Your records stay on your phone unless you save a backup elsewhere. See [Privacy Policy](PRIVACY.md).
